@@ -44,6 +44,8 @@ func on_enemies_defeated() -> void:
 		print("MENANG! Semua musuh hilang.")
 
 func restart() -> void:
+	# Reset state sebelum reload agar PLAYING bisa diset ulang oleh Main.
+	current_state = GameState.MENU
 	get_tree().reload_current_scene.call_deferred()
 
 func is_playing() -> bool:
