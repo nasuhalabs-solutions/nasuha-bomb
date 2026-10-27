@@ -1,11 +1,11 @@
 ; Engine configuration file.
-; Bomberman 2D - Godot 4.x (target: Android)
+; BombCraft: Single Source of Blast - Godot 4.x (target: Android)
 
 config_version=5
 
 [application]
 
-config/name="Bomberman2D"
+config/name="BombCraft: Single Source of Blast"
 run/main_scene="res://scenes/main.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 

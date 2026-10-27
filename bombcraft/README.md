@@ -1,4 +1,4 @@
-# Bomberman 2D — Godot 4.x (GDScript, target Android)
+# BombCraft: Single Source of Blast — Godot 4.x (GDScript, target Android)
 
 Fondasi boilerplate yang **bisa langsung dijalankan** (placeholder grafis berupa `ColorRect`,
 tanpa aset/animasi). Dibuka dengan **Godot 4.2+** → *Import* → pilih `project.godot`.
